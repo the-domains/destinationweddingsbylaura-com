@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DestinationWeddingsbyLaura.com]]></title>
+        <description><![CDATA[DestinationWeddingsbyLaura.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 11:56:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7573e0c7-e925-494d-b14f-0c38c5cb1001.jpg">]]></description>
+            <link>undefinednull/index.html</link>
+            <guid isPermaLink="false">33295e49-f0ee-4ca1-8547-ef1e64d80381</guid>
+            <pubDate>Mon, 28 Mar 2016 11:56:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
